@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
+token=NTIzMjE5MDE5NTAzODk0NTU4.DvWYHQ.0OYZgKqyIxdcdnHAc-79p_39bn0
+owner=312244272000663564
+prefix=M
 game=Ready!
 stayinchannel=true
 songinstatus=false
