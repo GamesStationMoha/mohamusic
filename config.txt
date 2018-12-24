@@ -1,4 +1,4 @@
-token=NTIzMjE5MDE5NTAzODk0NTU4.DvWYHQ.0OYZgKqyIxdcdnHAc-79p_39bn0
+token=NTI2Nzk0OTI2NDIwMzk0MDI1.DwKY4w.iS3TKwuSFkxSAw8S7TGvusypyWc
 owner=312244272000663564
 prefix=m
 game=Type mplay
